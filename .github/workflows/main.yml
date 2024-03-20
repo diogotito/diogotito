@@ -18,13 +18,19 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
+          # Core
           base: header
-          config_display: columns
           config_octicon: yes
           config_timezone: Europe/Lisbon
+          # Gists
           plugin_gists: yes
+          # Notable contributions
           plugin_notable: yes
+          plugin_notable_indepth: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_types: "commit,issue,pull_request"
-          
+          # Projects
+          plugin_projects: yes
+          plugin_projects_repositories: pineman/fpt/projects/1
+          plugin_projects_descriptions: yes
