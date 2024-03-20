@@ -47,5 +47,5 @@ jobs:
           # https://sourcegraph.com/npm/linguist-js/-/blob/ext/languages.yml
           # comma-separated, .toLocaleLowerCase()
           # webassembly?
-          plugin_code_languages: c, c#, c++, java, javascript, powershell, python, ruby, rust, shell, lua, typescript, actionscript, autohotkey, assembly, angelscript, awk, cmake, clips, haskell, f#, fish, forth, elm, emacs lisp, nix, nushell, game maker language, gdscript, go, gleam, groovy, glsl, jq, ocaml, raku, scala, svelte, tex, ti program, dogescript, sql, vba, vbscript, vim script, vue, zig
+          plugin_code_languages: c, c#, c++, java, javascript, powershell, python, ruby, rust, shell, lua, typescript, actionscript, autohotkey, assembly, angelscript, awk, apl, cmake, clips, pony, haskell, f#, fish, forth, elm, emacs lisp, nix, nushell, game maker language, gdscript, go, gleam, groovy, glsl, jq, ocaml, raku, scala, svelte, tex, ti program, dogescript, sql, vba, vbscript, vim script, vue, zig
           # consider plugin_languages_aliases: javascript:JS, typescript:TS, etc.
