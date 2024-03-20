@@ -28,7 +28,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_from: all
-          plugin_notable_repositories: yes
+          plugin_notable_repositories: no
           plugin_notable_types: "commit,issue,pull_request"
           # Projects
           plugin_projects: yes
