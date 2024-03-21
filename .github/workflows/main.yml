@@ -36,14 +36,14 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_indepth_custom: pineman/abra, pineman/fpt
           plugin_languages_sections: recently-used, most-used
-          plugin_languages_recent_days: 120
+          plugin_languages_recent_days: 360
           plugin_languages_recent_load: 900 # [0, 1000]
           plugin_languages_details: lines, percentage
           plugin_languages_categories: programming
           plugin_languages_ignored: renderscript, html, css, json, toml, yaml, xml, godot resource
           # Random code snippet
           plugin_code: yes
-          plugin_code_days: 60
+          plugin_code_days: 360
           plugin_code_load: 900
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/code/index.mjs#L59-L62
           # https://sourcegraph.com/npm/linguist-js/-/blob/ext/languages.yml
