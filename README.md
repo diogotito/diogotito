@@ -3,7 +3,7 @@ TODO write
 Metrics
 -------
 
-Auto-generated with [lowlighter/metrics](https://github.com/lowlighter/metrics).
+Auto-generated with [lowlighter/metrics](https://github.com/lowlighter/metrics)
 (but take the language classification wih a grain of salt)
 
 <picture>
