@@ -1,10 +1,10 @@
 TODO a little blurb about me
 and (maybe):
 
-  - [] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) extra pins
-  - [] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pinned gists
-  - links to a few GitLab repos (esp. the learning-opengl one)
-  - fancy GitHub Action that reads my side-projects Trello board, takes cards that have links to publicly hosted repos from three lists and writes an SVG diagram for this profile's README section
+  - [ ] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) extra pins
+  - [ ] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pinned gists
+  - [ ] links to a few GitLab repos (esp. the learning-opengl one)
+  - [ ] fancy GitHub Action that reads my side-projects Trello board, takes cards that have links to publicly hosted repos from three lists and writes an SVG diagram for this profile's README section
 
 
 Metrics
