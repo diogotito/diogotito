@@ -4,7 +4,7 @@ and (maybe):
   - [ ] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) extra pins
   - [ ] [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) pinned gists
   - [ ] links to a few GitLab repos (esp. the learning-opengl one)
-  - [ ] fancy GitHub Action that reads my side-projects Trello board, takes cards that have links to publicly hosted repos from three lists and writes an SVG diagram for this profile's README section
+  - [ ] fancy GitHub Action that reads my side-projects Trello board, takes cards that have links to publicly hosted repos from three lists and writes an SVG diagram for this profile's README section OR maybe create a GitHub Board instead
 
 CONSIDER what belongs to my GitHub profile and what belongs to my personal homepage?
 
