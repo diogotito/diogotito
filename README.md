@@ -6,6 +6,8 @@ and (maybe):
   - [ ] links to a few GitLab repos (esp. the learning-opengl one)
   - [ ] fancy GitHub Action that reads my side-projects Trello board, takes cards that have links to publicly hosted repos from three lists and writes an SVG diagram for this profile's README section
 
+CONSIDER what belongs to my GitHub profile and what belongs to my personal homepage?
+
 
 Metrics
 -------
